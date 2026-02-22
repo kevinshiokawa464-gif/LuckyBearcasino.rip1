@@ -76,12 +76,12 @@ const Header = () => {
 
         {/* Mobile: logo + burger */}
         <div className="flex items-center gap-3 lg:hidden">
-          <a
-            href="#registraciya"
-            className="rounded-full bg-[#3B82F6] px-4 py-2 text-[13px] font-semibold text-white"
-          >
-            Играть
-          </a>
+            <a
+              href="https://lbgame777.xyz/2xn84Y"
+              className="rounded-full bg-[#3B82F6] px-4 py-2 text-[13px] font-semibold text-white"
+            >
+              Играть
+            </a>
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
             className="rounded-lg p-2 text-white hover:bg-white/10"
