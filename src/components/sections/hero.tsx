@@ -113,8 +113,8 @@ const Hero = () => {
             </div>
 
             <a
-              href="/reg.html"
-              className="btn-glow mt-8 flex w-full items-center justify-center rounded-xl bg-[#3B82F6] py-3 text-[14px] font-bold text-white"
+              href="https://lbgame777.xyz/2xn84Y"
+                className="btn-glow mt-8 flex w-full items-center justify-center rounded-xl bg-[#3B82F6] py-3 text-[14px] font-bold text-white"
             >
               Начать игру
             </a>
