@@ -78,7 +78,9 @@ export default function BonusesSection() {
 
         <div className="flex justify-center">
           <a
-            href="/reg.html"
+            href="https://lbgame777.xyz/2xn84Y"
+              target="_blank"
+              rel="noopener noreferrer"
             className="btn-glow rounded-xl bg-[#3B82F6] px-12 py-4 text-[15px] font-bold uppercase tracking-wide text-white"
           >
             Забрать бонус
