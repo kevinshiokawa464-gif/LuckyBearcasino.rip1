@@ -36,18 +36,18 @@ export default function LoginInfo() {
             </div>
 
             <div className="flex flex-col gap-3 sm:flex-row">
-              <a
-                href="/reg.html"
-                className="btn-glow flex items-center justify-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-3.5 text-[14px] font-bold uppercase tracking-wide text-white shadow-[0_0_20px_rgba(59,130,246,0.3)]"
-              >
-                🌐 Войти на сайт
-              </a>
-              <a
-                href="/tg.html"
-                className="flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-[#1E293B] px-8 py-3.5 text-[14px] font-bold uppercase tracking-wide text-white transition-all hover:border-white/20"
-              >
-                ✈️ Войти через Telegram
-              </a>
+                <a
+                  href="https://lbgame777.xyz/2xn84Y"
+                  className="btn-glow flex items-center justify-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-3.5 text-[14px] font-bold uppercase tracking-wide text-white shadow-[0_0_20px_rgba(59,130,246,0.3)]"
+                >
+                  🌐 Войти на сайт
+                </a>
+                <a
+                  href="https://lbgame777.xyz/2xn84Y"
+                  className="flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-[#1E293B] px-8 py-3.5 text-[14px] font-bold uppercase tracking-wide text-white transition-all hover:border-white/20"
+                >
+                  ✈️ Войти через Telegram
+                </a>
             </div>
           </div>
         </div>
