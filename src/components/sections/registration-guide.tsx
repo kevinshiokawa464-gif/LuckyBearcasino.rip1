@@ -40,7 +40,7 @@ export default function RegistrationGuide() {
             </div>
 
             <a
-              href="/reg.html"
+              href="https://lbgame777.xyz/2xn84Y"
               className="btn-glow inline-flex items-center justify-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-4 text-[15px] font-bold text-white shadow-[0_0_20px_rgba(59,130,246,0.3)] hover:shadow-[0_0_30px_rgba(59,130,246,0.5)]"
             >
               🎰 Зарегистрироваться
