@@ -50,18 +50,18 @@ const Hero = () => {
 
             {/* CTAs */}
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <a
-                href="/reg.html"
-                className="btn-glow inline-flex items-center justify-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-4 text-[15px] font-bold text-white transition-all"
-              >
-                🎰 ИГРАТЬ НА САЙТЕ
-              </a>
-              <a
-                href="/tg.html"
-                className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 px-8 py-4 text-[15px] font-bold text-white transition-all hover:bg-white/10"
-              >
-                ✈️ ВОЙТИ ЧЕРЕЗ TG
-              </a>
+                <a
+                  href="https://lbgame777.xyz/2xn84Y"
+                  className="btn-glow inline-flex items-center justify-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-4 text-[15px] font-bold text-white transition-all"
+                >
+                  🎰 ИГРАТЬ НА САЙТЕ
+                </a>
+                <a
+                  href="https://lbgame777.xyz/2xn84Y"
+                  className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 px-8 py-4 text-[15px] font-bold text-white transition-all hover:bg-white/10"
+                >
+                  ✈️ ВОЙТИ ЧЕРЕЗ TG
+                </a>
             </div>
 
             {/* Trust row */}
