@@ -35,7 +35,7 @@ export default function MobileInfo() {
         </div>
 
         <a
-          href="/reg.html"
+          href="https://lbgame777.xyz/2xn84Y"
           className="inline-flex items-center justify-center rounded-full border border-white/10 bg-white/5 px-8 py-3 text-[14px] font-semibold text-white transition-all hover:bg-white/10"
         >
           Подробнее о мобильной версии

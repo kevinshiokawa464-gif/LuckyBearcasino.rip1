@@ -39,7 +39,7 @@ export default function Categories() {
           {cards.map((c) => (
             <a
               key={c.name}
-              href="/reg.html"
+              href="https://lbgame777.xyz/2xn84Y"
               className="group relative flex min-h-[140px] flex-col justify-between overflow-hidden rounded-2xl border border-white/5 bg-[rgba(15,23,42,0.6)] p-5 backdrop-blur-[8px] transition-all duration-300 hover:scale-[1.02] hover:border-[#3B82F6]/30"
             >
               <div className="flex items-center justify-between">

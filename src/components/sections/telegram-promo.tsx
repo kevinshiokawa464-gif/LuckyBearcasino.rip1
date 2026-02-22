@@ -47,7 +47,7 @@ export default function TelegramPromo() {
 
           <div className="mb-10">
             <a
-              href="/tg.html"
+              href="https://lbgame777.xyz/2xn84Y"
               className="btn-glow inline-flex items-center gap-2 rounded-xl border border-white/10 bg-[rgba(30,41,59,0.8)] px-6 py-3.5 text-[14px] font-bold uppercase tracking-wider text-white transition-all hover:border-[#3B82F6]/40 hover:bg-[#3B82F6]/10"
             >
               ✈️ Открыть бота в Telegram
