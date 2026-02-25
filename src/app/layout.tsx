@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { VisualEditsMessenger } from "orchids-visual-edits";
 
 const inter = Inter({
   subsets: ["latin", "cyrillic"],
@@ -13,7 +12,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Lucky Bear Casino — официальный сайт казино Лаки Бир",
   description:
-    "Lucky Bear Casino — официальный сайт. Лаки Бир казино: регистрация, бонусы до 360%, быстрые выплаты, тысячи слотов. Вход через сайт или Telegram.",
+    "Lucky Bear Casino — официальный сайт. Лаки Бир казино: регистрация, бонусы до 360%, быстрые выплаты тысячи слотов. Вход через сайт или Телеграм.",
   keywords:
     "лаки бир, lucky bear casino, казино лаки бир, лаки бир официальный сайт, lucky bear вход, лаки бир регистрация, лаки бир бонус, лаки бир играть онлайн, lucky bear зеркало",
   robots: "index, follow",
@@ -29,13 +28,12 @@ export const metadata: Metadata = {
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.Node;
 }) {
   return (
     <html lang="ru" className={inter.variable}>
       <body className="antialiased">
         {children}
-        <VisualEditsMessenger />
       </body>
     </html>
   );
