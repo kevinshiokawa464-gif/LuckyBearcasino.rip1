@@ -38,6 +38,6 @@ yarn-error.log*
 next-env.d.ts
 
 # .env
-.env
-.env.*
-!.env.example
+# .env # Removed by Orchids to allow .env files
+# .env.* # Removed by Orchids to allow .env files
+# !.env.example # Removed by Orchids to allow .env files
