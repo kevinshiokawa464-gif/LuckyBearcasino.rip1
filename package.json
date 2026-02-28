@@ -46,7 +46,10 @@
     "lucide-react": "^0.554.0",
     "next": "^15.5.7",
     "next-themes": "^0.4.6",
+<<<<<<< HEAD
     "orchids-visual-edits": "^1.0.12",
+=======
+>>>>>>> 316b9c18e834a61e70fec81a83ff2ab9fd09be36
     "react": "19.2.0",
     "react-day-picker": "^9.11.2",
     "react-dom": "19.2.0",
