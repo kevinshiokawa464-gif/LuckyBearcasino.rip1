@@ -30,7 +30,7 @@ const TelegramBot = () => {
               
               <h2 className="text-[36px] md:text-[52px] leading-[1.05] font-black uppercase text-white">
                 Твой личный <br />
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#3B82F6] via-purple-400 to-[#3B82F6] animate-gradient-x">Лаки Бир</span> в Telegram
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#3B82F6] via-purple-400 to-[#3B82F6] animate-gradient-x bg-[length:200%_auto]">Лаки Бир</span> в Telegram
               </h2>
               
               <p className="text-[18px] leading-relaxed text-white/60 font-medium">
