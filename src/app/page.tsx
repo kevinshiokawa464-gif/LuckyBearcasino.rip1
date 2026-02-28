@@ -5,6 +5,7 @@ import GameCarousel from "@/components/sections/game-carousel";
 import Bonuses from "@/components/sections/bonuses";
 import Features from "@/components/sections/features";
 import TelegramBot from "@/components/sections/telegram-bot";
+import AuthSection from "@/components/sections/auth-section";
 import FAQSection from "@/components/sections/faq";
 import ReviewsSection from "@/components/sections/reviews";
 import Footer from "@/components/sections/footer";
@@ -19,6 +20,7 @@ export default function Home() {
         <HeroSection />
         <CategoriesSection />
         <GameCarousel />
+        <AuthSection />
         <Bonuses />
         <Features />
         <TelegramBot />
