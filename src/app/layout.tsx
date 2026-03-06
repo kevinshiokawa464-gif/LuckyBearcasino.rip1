@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   keywords:
     "лаки бир, lucky bear casino, казино лаки бир, лаки бир официальный сайт, lucky bear вход, лаки бир регистрация, лаки бир бонус, лаки бир играть онлайн, lucky bear зеркало",
   robots: "index, follow",
+  verification: {
+    yandex: "2eaa30cafc768d8f",
+  },
   openGraph: {
     title: "Lucky Bear Casino — официальный сайт казино Лаки Бир",
     description:
