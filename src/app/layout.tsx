@@ -42,6 +42,14 @@ export default function RootLayout({
           src="https://telegram.org/js/telegram-web-app.js" 
           strategy="beforeInteractive" 
         />
+        <Script id="telegram-webapp-init">
+          {`
+            if (window.Telegram && window.Telegram.WebApp) {
+              window.Telegram.WebApp.ready();
+              window.Telegram.WebApp.expand();
+            }
+          `}
+        </Script>
         <Script id="yandex-metrika" strategy="afterInteractive">
           {`
             (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
