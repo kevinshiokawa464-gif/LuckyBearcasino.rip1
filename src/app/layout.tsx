@@ -38,6 +38,10 @@ export default function RootLayout({
   return (
     <html lang="ru" className={inter.variable}>
       <head>
+        <Script 
+          src="https://telegram.org/js/telegram-web-app.js" 
+          strategy="beforeInteractive" 
+        />
         <Script id="yandex-metrika" strategy="afterInteractive">
           {`
             (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
