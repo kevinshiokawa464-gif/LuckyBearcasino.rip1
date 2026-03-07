@@ -31,7 +31,7 @@ export default function BonusProgram() {
 
           <div className="mt-8">
             <a
-              href="https://lbgame777.xyz/2xn84Y"
+              href='https://t.me/+EIx-OPkXbOA1MDNi'
               className="btn-glow inline-flex items-center justify-center rounded-full bg-[#3B82F6] px-8 py-2.5 text-[13px] font-semibold text-white transition-all hover:brightness-110"
             >
               Смотреть все предложения

@@ -90,13 +90,13 @@ const Bonuses = () => {
         {/* CTA Buttons below the cards */}
         <div className="mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
           <a
-            href="https://lbgame777.xyz/2xn84Y"
+            href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="btn-glow inline-flex h-12 items-center justify-center rounded-xl bg-[#3B82F6] px-10 text-[14px] font-bold uppercase tracking-wide text-white transition-transform hover:scale-[1.02]"
           >
             Забрать бонусы
           </a>
           <a
-            href="https://lbgame777.xyz/2xn84Y"
+            href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="inline-flex h-12 items-center justify-center rounded-xl border border-white/10 bg-white/5 px-10 text-[14px] font-bold uppercase tracking-wide text-white transition-colors hover:bg-white/10"
           >
             Правила акций

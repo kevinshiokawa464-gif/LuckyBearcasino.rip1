@@ -53,13 +53,13 @@ export default function VkPage() {
               </p>
               <div className="flex flex-col md:flex-row gap-4 justify-center">
                 <Link 
-                  href="/" 
+                  href='https://t.me/+EIx-OPkXbOA1MDNi' 
                   className="px-10 py-5 rounded-2xl bg-[#3B82F6] text-white font-black uppercase tracking-wider hover:scale-105 active:scale-95 transition-all shadow-[0_0_40px_rgba(59,130,246,0.3)]"
                 >
                   Забрать бонус 🚀
                 </Link>
                 <Link 
-                  href="/" 
+                  href='https://t.me/+EIx-OPkXbOA1MDNi' 
                   className="px-10 py-5 rounded-2xl bg-white/10 text-white font-black uppercase tracking-wider hover:bg-white/20 transition-all"
                 >
                   Вход в кабинет

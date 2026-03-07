@@ -85,7 +85,7 @@ const ReviewsSection = () => {
             Расскажите о своем опыте игры в Lucky Bear Casino в нашем официальном чате Telegram.
           </p>
           <a 
-            href="https://lbgame777.xyz/2xn84Y" 
+            href='https://t.me/+EIx-OPkXbOA1MDNi' 
             className="inline-flex items-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-3.5 text-[14px] font-bold uppercase tracking-wide text-white transition-all hover:scale-105 active:scale-95 shadow-[0_4px_14px_0_rgba(59,130,246,0.39)]"
           >
             ✈️ Написать в Telegram

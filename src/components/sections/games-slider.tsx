@@ -92,13 +92,13 @@ export default function GamesSlider() {
         {/* CTA Buttons */}
         <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
           <a
-            href="https://lbgame777.xyz/2xn84Y"
+            href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="btn-glow flex items-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-3 text-[14px] font-bold uppercase text-white"
           >
             🎰 Играть на сайте
           </a>
           <a
-            href="https://lbgame777.xyz/2xn84Y"
+            href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="flex items-center gap-2 rounded-xl border border-white/10 bg-white/5 px-8 py-3 text-[14px] font-bold uppercase text-white transition-colors hover:bg-white/10"
           >
             ✈️ Играть в Telegram

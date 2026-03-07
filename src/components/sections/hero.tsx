@@ -49,13 +49,13 @@ const HeroSection = () => {
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <a 
-                href="https://lbgame777.xyz/2xn84Y" 
+                href='https://t.me/+EIx-OPkXbOA1MDNi' 
                 className="btn-primary inline-flex items-center justify-center gap-2 bg-gradient-to-r from-[#3B82F6] to-[#1E40AF] px-10 py-5 text-[15px] font-bold text-white shadow-btn-glow uppercase"
               >
                 🎰 ИГРАТЬ СЕЙЧАС
               </a>
               <a 
-                href="https://lbgame777.xyz/2xn84Y" 
+                href='https://t.me/+EIx-OPkXbOA1MDNi' 
                 className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 px-10 py-5 text-[15px] font-bold text-white transition-all hover:bg-white/10 hover:border-[#3B82F6]/20"
               >
                 ✈️ ВОЙТИ ЧЕРЕЗ TG
@@ -154,7 +154,7 @@ const HeroSection = () => {
             </div>
 
             <a 
-              href="https://lbgame777.xyz/2xn84Y" 
+              href='https://t.me/+EIx-OPkXbOA1MDNi' 
               className="mt-auto btn-primary relative overflow-hidden flex w-full items-center justify-center py-4 text-[14px] font-black text-white uppercase text-center group/btn"
             >
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-700 transition-transform group-hover/btn:scale-110"></div>

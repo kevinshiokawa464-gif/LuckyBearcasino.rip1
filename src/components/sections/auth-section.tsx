@@ -44,7 +44,7 @@ const AuthSection = () => {
               </ul>
 
               <a 
-                href="https://lbgame777.xyz/2xn84Y"
+                href='https://t.me/+EIx-OPkXbOA1MDNi'
                 className="btn-primary flex w-full items-center justify-center gap-2 py-5 text-[15px] font-black uppercase tracking-widest bg-gradient-to-r from-[#3B82F6] to-blue-700"
               >
                 Создать аккаунт <Zap size={18} fill="currentColor" />
@@ -77,7 +77,7 @@ const AuthSection = () => {
               </div>
 
               <a 
-                href="https://lbgame777.xyz/2xn84Y"
+                href='https://t.me/+EIx-OPkXbOA1MDNi'
                 className="flex w-full items-center justify-center gap-2 py-5 rounded-2xl bg-white/5 border border-white/10 text-white font-black uppercase tracking-widest text-[15px] hover:bg-white/10 transition-all"
               >
                 Войти <LogIn size={18} />

@@ -63,14 +63,14 @@ const Header = () => {
         {/* Desktop Right Navigation */}
         <div className="hidden grow basis-0 items-center justify-end gap-3 lg:flex">
           <a 
-            href="https://lbgame777.xyz/2xn84Y" 
+            href='https://t.me/+EIx-OPkXbOA1MDNi' 
             className="flex items-center gap-2 rounded-xl px-4 py-2 text-[12px] font-black uppercase tracking-widest text-white/70 transition-all hover:text-white"
           >
             <LogIn size={14} />
             Вход
           </a>
           <a 
-            href="https://lbgame777.xyz/2xn84Y" 
+            href='https://t.me/+EIx-OPkXbOA1MDNi' 
             className="flex items-center gap-2 rounded-xl bg-gradient-to-r from-[#3B82F6] to-blue-700 px-6 py-2.5 text-[12px] font-black uppercase tracking-widest text-white shadow-[0_4px_15px_rgba(59,130,246,0.3)] transition-all hover:scale-105 hover:shadow-[0_6px_20px_rgba(59,130,246,0.4)] active:scale-95"
           >
             <UserPlus size={14} />
@@ -81,7 +81,7 @@ const Header = () => {
         {/* Mobile Actions */}
         <div className="flex items-center gap-3 lg:hidden">
           <a 
-            href="https://lbgame777.xyz/2xn84Y" 
+            href='https://t.me/+EIx-OPkXbOA1MDNi' 
             className="rounded-xl bg-[#3B82F6] px-5 py-2 text-[12px] font-black uppercase tracking-widest text-white shadow-[0_4px_14px_0_rgba(59,130,246,0.3)] transition-transform active:scale-95"
           >
             Играть

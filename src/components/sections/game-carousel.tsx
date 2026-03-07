@@ -142,13 +142,13 @@ export default function GameCarousel() {
         {/* Action Buttons */}
         <div className="mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
           <a
-            href="https://lbgame777.xyz/2xn84Y"
+            href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="group relative flex items-center gap-2 rounded-xl bg-[#3B82F6] px-8 py-3 text-[14px] font-bold uppercase text-white shadow-[0_4px_14px_0_rgba(59,130,246,0.39)] transition-all hover:scale-[1.02] hover:brightness-110 active:scale-95"
           >
             <span>🎰</span> Играть на сайте
           </a>
           <a
-            href="https://lbgame777.xyz/2xn84Y"
+            href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="flex items-center gap-2 rounded-xl border border-white/10 bg-white/5 px-8 py-3 text-[14px] font-bold uppercase text-white transition-all hover:bg-white/10 active:scale-95"
           >
             <span>✈️</span> Играть в Telegram

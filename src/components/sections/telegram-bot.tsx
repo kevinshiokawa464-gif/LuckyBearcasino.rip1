@@ -60,7 +60,7 @@ const TelegramBot = () => {
 
               <div className="pt-6 flex flex-col sm:flex-row items-center gap-6">
                 <a 
-                  href="https://lbgame777.xyz/2xn84Y"
+                  href='https://t.me/+EIx-OPkXbOA1MDNi'
                   className="btn-primary w-full sm:w-auto inline-flex items-center justify-center gap-3 px-12 py-5 text-[16px] font-black bg-gradient-to-r from-[#0088cc] to-[#00a2ed] shadow-[0_10px_30px_rgba(0,136,204,0.3)]"
                 >
                   <Send className="h-5 w-5 fill-white" />

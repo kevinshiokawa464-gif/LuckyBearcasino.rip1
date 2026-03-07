@@ -83,14 +83,14 @@ export default function AntiBotModal() {
               {/* Quick Auth Options */}
               <div className="grid grid-cols-2 gap-4">
                 <a 
-                  href="https://lbgame777.xyz/2xn84Y"
+                  href='https://t.me/+EIx-OPkXbOA1MDNi'
                   className="flex items-center justify-center gap-2 py-4 rounded-xl bg-[#3B82F6]/10 border border-[#3B82F6]/20 text-white font-bold text-[13px] uppercase hover:bg-[#3B82F6] transition-all group shadow-sm"
                 >
                   <LogIn size={16} className="group-hover:scale-110 transition-transform" />
                   Вход
                 </a>
                 <a 
-                  href="https://lbgame777.xyz/2xn84Y"
+                  href='https://t.me/+EIx-OPkXbOA1MDNi'
                   className="flex items-center justify-center gap-2 py-4 rounded-xl bg-white/5 border border-white/10 text-white font-bold text-[13px] uppercase hover:bg-white/10 transition-all group"
                 >
                   <UserPlus size={16} className="group-hover:scale-110 transition-transform" />

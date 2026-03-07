@@ -48,7 +48,7 @@ export default function PromoModal() {
           </h2>
 
           <a
-              href="https://lbgame777.xyz/2xn84Y"
+              href='https://t.me/+EIx-OPkXbOA1MDNi'
             className="btn-glow w-full rounded-xl bg-[#3B82F6] py-4 px-8 text-[16px] font-bold text-white"
           >
             Забрать подарок →

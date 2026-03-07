@@ -115,13 +115,13 @@ const FAQSection = () => {
           </div>
           <div className="flex flex-wrap justify-center gap-3">
             <a
-              href="https://lbgame777.xyz/2xn84Y"
+              href='https://t.me/+EIx-OPkXbOA1MDNi'
               className="inline-flex items-center gap-2 rounded-xl bg-[#3B82F6] px-6 py-3 text-[14px] font-bold uppercase text-white shadow-[#3B82F6]/20 shadow-lg transition-transform hover:scale-[1.05]"
             >
               💬 Написать в чат
             </a>
             <a
-              href="https://lbgame777.xyz/2xn84Y"
+              href='https://t.me/+EIx-OPkXbOA1MDNi'
               className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-white/5 px-6 py-3 text-[14px] font-bold uppercase text-white transition-colors hover:bg-white/10"
             >
               ✈️ Telegram поддержка
