@@ -11,20 +11,6 @@ export const metadata: Metadata = {
 export default function AppFunnelPage() {
   return (
     <div className="min-h-screen bg-[#05080f] text-white selection:bg-[#3B82F6]/30 overflow-x-hidden">
-      <Script id="twa-immediate-ready" strategy="beforeInteractive">
-        {`
-          (function() {
-            var interval = setInterval(function() {
-              if (window.Telegram && window.Telegram.WebApp) {
-                window.Telegram.WebApp.ready();
-                window.Telegram.WebApp.expand();
-                clearInterval(interval);
-              }
-            }, 100);
-            setTimeout(function() { clearInterval(interval); }, 5000);
-          })();
-        `}
-      </Script>
       <div className="max-w-[480px] mx-auto px-5 py-8 flex flex-col min-h-screen">
         {/* Header */}
         <header className="text-center mb-10 animate-in fade-in slide-in-from-top-4 duration-700">
