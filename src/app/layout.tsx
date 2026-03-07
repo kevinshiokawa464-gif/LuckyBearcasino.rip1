@@ -42,6 +42,12 @@ export default function RootLayout({
         <Script 
           src="https://telegram.org/js/telegram-web-app.js" 
           strategy="beforeInteractive" 
+          onLoad={() => {
+            if (window.Telegram && window.Telegram.WebApp) {
+              window.Telegram.WebApp.ready();
+              window.Telegram.WebApp.expand();
+            }
+          }}
         />
         <Script id="yandex-metrika" strategy="afterInteractive">
           {`
