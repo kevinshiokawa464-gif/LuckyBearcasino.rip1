@@ -13,19 +13,19 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Lucky Bear — Официальный сайт Лаки Бир",
+  title: "Lucky Bear Casino — Официальный сайт Лаки Бир Казино",
   description:
-    "Добро пожаловать в Лаки Бир — ваш надежный проводник! Быстрые выплаты, топовые игры и эксклюзивные бонусы до 360% ждут тебя на официальном сайте Lucky Bear.",
+    "Добро пожаловать в Лаки Бир Казино — ваш надежный проводник в мире азарта! Быстрые выплаты, топовые слоты и эксклюзивные бонусы до 360% ждут тебя на официальном сайте Lucky Bear.",
   keywords:
-    "лаки бир, lucky bear, лаки бир официальный сайт, lucky bear вход, лаки бир регистрация, лаки бир бонус, лаки бир играть онлайн, лаки бир зеркало, лаки бир бот",
+    "лаки бир, lucky bear casino, казино лаки бир, лаки бир официальный сайт, lucky bear вход, лаки бир регистрация, лаки бир бонус, лаки бир играть онлайн, lucky bear зеркало, лаки бир бот",
   robots: "index, follow",
   verification: {
     yandex: "2eaa30cafc768d8f",
   },
   openGraph: {
-    title: "Lucky Bear — Официальный сайт Лаки Бир",
+    title: "Lucky Bear Casino — Официальный сайт Лаки Бир Казино",
     description:
-      "Ваш надежный проводник! Быстрые выплаты, топовые игры и бонусы до 360% на официальном сайте Лаки Бир.",
+      "Ваш надежный проводник в мире азарта! Быстрые выплаты, топовые слоты и бонусы до 360% на официальном сайте Лаки Бир.",
     type: "website",
     locale: "ru_RU",
   },
@@ -45,12 +45,6 @@ export default function RootLayout({
         />
         <Script id="yandex-metrika" strategy="afterInteractive">
           {`
-            // Force show body if TWA or VK hangs
-            setTimeout(function() {
-              document.body.style.opacity = '1';
-              document.body.style.visibility = 'visible';
-            }, 5000);
-
             (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
             m[i].l=1*new Date();
             for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
