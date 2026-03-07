@@ -3,7 +3,7 @@ import { ShieldCheck, Zap, Trophy, TrendingUp } from "lucide-react";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Lucky Bear Casino — Вход в игру 🎰",
+  title: "Lucky Bear — Вход в игру 🎰",
   description: "Официальное игровое приложение Lucky Bear. Быстрый вход, мгновенные выплаты и эксклюзивные бонусы до 360%.",
   robots: "noindex, nofollow",
 };
