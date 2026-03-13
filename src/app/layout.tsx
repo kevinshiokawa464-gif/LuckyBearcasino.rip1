@@ -11,16 +11,19 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Lucky Bear Casino — официальный сайт казино Лаки Бир",
+  title: "LuckyBear — Официальный Сайт Казино | Играть в Лаки Бир Онлайн",
   description:
-    "Lucky Bear Casino — официальный сайт. Лаки Бир казино: регистрация, бонусы до 360%, быстрые выплаты, тысячи слотов. Вход через сайт или Telegram.",
+    "Официальный сайт LuckyBear: современная игровая платформа в Telegram. Быстрые выплаты, ежедневные бонусы и эксклюзивные слоты Lucky Bear. Узнайте, как начать играть в Лаки Бир через официальный бот.",
   keywords:
-    "лаки бир, lucky bear casino, казино лаки бир, лаки бир официальный сайт, lucky bear вход, лаки бир регистрация, лаки бир бонус, лаки бир играть онлайн, lucky bear зеркало",
+    "LuckyBear, Лаки Бир, официальный сайт LuckyBear, казино LuckyBear, играть в LuckyBear, регистрация Lucky Bear, бонусы LuckyBear, телеграм бот LuckyBear, LuckyBear зеркало, Lucky Bear отзывы, выплаты LuckyBear",
+  other: {
+    "yandex-verification": "2eaa30cafc768d8f",
+  },
   robots: "index, follow",
   openGraph: {
-    title: "Lucky Bear Casino — официальный сайт казино Лаки Бир",
+    title: "LuckyBear — Официальный Сайт Казино | Играть в Лаки Бир Онлайн",
     description:
-      "Лаки Бир казино — регистрация, бонусы до 360%, мгновенные выплаты, тысячи слотов.",
+      "Официальный сайт LuckyBear: современная игровая платформа в Telegram. Быстрые выплаты, ежедневные бонусы и эксклюзивные слоты Lucky Bear.",
     type: "website",
     locale: "ru_RU",
   },
@@ -33,6 +36,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ru" className={inter.variable}>
+      <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+      </head>
       <body className="antialiased">
         {children}
         <VisualEditsMessenger />
